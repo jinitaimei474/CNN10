@@ -1,0 +1,96 @@
+{
+  "pdf_count": 21,
+  "questions": 630,
+  "pages": 132,
+  "source_coverage": "21 of 21",
+  "answer_pages": "21 of 21 at end",
+  "visual_review": "21 contact sheets / 132 pages reviewed; representative full pages reviewed",
+  "zip_integrity": "PASS",
+  "bundle_bytes": 3495516,
+  "files": [
+    {
+      "name": "CNN10_20260710_听力挖空练习.pdf",
+      "sha256": "eab0dd2d6ed09c17b483fb813508e84dc194d93e4e89fd20782953ed04e8bd93"
+    },
+    {
+      "name": "CNN10_20260717_听力挖空练习.pdf",
+      "sha256": "940674e604b48ffa8dac05dbf863994d8d23a49b56b65fe92a9458c2fcb3e5f9"
+    },
+    {
+      "name": "CNN10_20260724_听力挖空练习.pdf",
+      "sha256": "005f96eea9bfa244ecc1e281d2246f0e6f5d7db64c0051b10f6d2a9f7e2ab8be"
+    },
+    {
+      "name": "CNN10_20260731_听力挖空练习.pdf",
+      "sha256": "5a7606d144e9c88d31280a7ba1cf614f6273f410a8a75b7d7f878e22a4c59d74"
+    },
+    {
+      "name": "CNN10_20260807_听力挖空练习.pdf",
+      "sha256": "7c7b4fce348445cdba3e62fb4f3c172bdad54124be4ccd9976c37711488d067b"
+    },
+    {
+      "name": "CNN10_20260814_听力挖空练习.pdf",
+      "sha256": "420573abc4e733570e4d86f07db38978e2376feeb170e407a01d8ade4fdfb6f4"
+    },
+    {
+      "name": "CNN10_20260817_听力挖空练习.pdf",
+      "sha256": "e68fe4a30910976473281f56a2a6860948d0248be7a0454da37b152ec07e28b8"
+    },
+    {
+      "name": "CNN10_20260818_听力挖空练习.pdf",
+      "sha256": "be6d5d3ed06321699a59ec9fec70d50fe7b8af3e8d3abebc48c7f4ab2d9ff219"
+    },
+    {
+      "name": "CNN10_20260819_听力挖空练习.pdf",
+      "sha256": "f5b1617e01424b7dcf6dec150dbf79e038a0de2ec2394638c0d8934bdf96197f"
+    },
+    {
+      "name": "CNN10_20260820_听力挖空练习.pdf",
+      "sha256": "c4258a13c64703b75d4be5e55587de77e8ded7a68f4f97ef23636df5fdef0e6c"
+    },
+    {
+      "name": "CNN10_20260821_听力挖空练习.pdf",
+      "sha256": "83ffa88a296ed623aa2973e87dfe3a5bcbe6a07f6325932520d4456b4d0bae2e"
+    },
+    {
+      "name": "CNN10_20260824_听力挖空练习.pdf",
+      "sha256": "eae280ba4aa6f86347aa9d6f6ecede1e49280d7add67a56cca13fbbf1b650cf2"
+    },
+    {
+      "name": "CNN10_20260825_听力挖空练习.pdf",
+      "sha256": "b6eaca3a44e8272a7c43616a762ebc3743dc6ed45371a928856b68c3dbad45fb"
+    },
+    {
+      "name": "CNN10_20260826_听力挖空练习.pdf",
+      "sha256": "8e17b571a40606a6f5bceca01b8916d4d9b9b425d8e5176d8323df4f874c183d"
+    },
+    {
+      "name": "CNN10_20260827_听力挖空练习.pdf",
+      "sha256": "04a29d8000e2c54ccddca5b3cb76cdcdd652939fb9846bd3cb79b1f8bf409f71"
+    },
+    {
+      "name": "CNN10_20260828_听力挖空练习.pdf",
+      "sha256": "f2473ac877afecbfd8d8713e1f11b3f88b02501cb1065b3281102164375262e4"
+    },
+    {
+      "name": "CNN10_20260831_听力挖空练习.pdf",
+      "sha256": "9d1e7d8dc6dd04225aa7bf59b55657adb58dfd6f204dfc683e35119c4215db8f"
+    },
+    {
+      "name": "CNN10_20260901_听力挖空练习.pdf",
+      "sha256": "60b74ac817a4a5db62580f289fee2549eaca0b1919313ddd107be9b9ee4fbbb4"
+    },
+    {
+      "name": "CNN10_20260902_听力挖空练习.pdf",
+      "sha256": "61fbd35ceb016df05cc52d0e4c72d712aa9cfe7ed51da5c1307c0fcf6e67acac"
+    },
+    {
+      "name": "CNN10_20260903_听力挖空练习.pdf",
+      "sha256": "8f1c7d76abcd0eea1e3d0c4f0e371a4ff56589b915cae59f2d0ca03e2a65a997"
+    },
+    {
+      "name": "CNN10_20260904_听力挖空练习.pdf",
+      "sha256": "f88b95a346d650d6fcdddb92192cf2bc95761c2d2c063cd5e5e02bfcd94c2437"
+    }
+  ]
+}
