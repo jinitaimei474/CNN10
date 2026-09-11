@@ -1,0 +1,49 @@
+01 What's up, sunshine? I'm Coy Wire. This is CNN 10. Happy World Coconut Day.
+02 The coconut might be nature's Swiss army knife. Drink the water, eat the flesh, make milk, oil. Even the husk can be turned into rope, brushes, and other products.
+03 Talk about a fruit that's really cocoa nuts. Ten minutes. Big world. Let's crack into the news.
+04 We start with the end of an era. Lionel Messi, one of the greatest players to ever touch a soccer ball, is retiring from Argentina's national team after more than two decades wearing his country's colors.
+05 The decision follows back-to-back heartbreaks for the soccer superstar. His father, Jorge, passed away shortly after Argentina's loss to Spain in this year's World Cup final. It's a bittersweet moment for fans in Argentina who've watched the homegrown hero rise to the pinnacle of the sport over the years.
+06 There's no comparison. At every level, at a football level, at a personal level, and in the national team, he gave everything. He played the last World Cup 39 years old as if he were a young kid.
+07 He prepared himself as if he were a young kid, knowing what was happening to his father, too. He played it anyway for him. Absolute admiration. He left a lot for Argentina. He went through many periods of ups and downs.
+08 Messi was for me the greatest as a player and as a person, and his retirement makes me sad. But on the other hand, it doesn't displease me because you have to retire at the top, as others did. We're going to miss him because we all love him.
+09 In a statement posted online, Messi thanked Argentine fans for the love they've shown and said he'll miss hearing them cheer from the pitch.
+10 But if you're already missing Messi, don't fret. The 39-year-old Messi will still be playing for defending MLS champions Inter Miami.
+11 Pop quiz hot shot.
+12 How many traditional colours make up the visible light spectrum?
+13 Two, five, seven or ten?
+14 If you said seven, go ahead and celebrate. The human eye perceives different wavelengths on the visible spectrum as the colours red, orange, yellow, green, blue, indigo and violet. Remember the acronym ROYGBIV.
+15 What if we could not only see light, but also hear it? Turns out it's not as far-fetched as it seems, and one innovative creator is taking the seriously bright idea to the next level by making music. Our John Sarlin got a front row seat to hear the unique instrument in action and learn all about the science that makes it work.
+16 Can you guess what triggers this instrument to play music and stops it?
+17 So I made my own instrument that is controlled by light, as you can see here.
+18 You heard that right. This creator has gone viral for using tech and nature to create music.
+19 My name's Riley. I am a composer. I just call it my light instrument.
+20 So how does it work?
+21 These cables basically sense light and how bright it is. That goes into my breadboard that I hand-soldered myself, which then goes into my Arduino, which is right here. That goes into my computer, and I have Arduino code that turns all the stuff that's going into this cable, and it turns it into a bunch of numbers. And then I take all those numbers and I turn it into music.
+22 In other words? Light go into cable. Cable goes into box. Box turns it into electronics. Electronics turns it into sound.
+23 Riley says the idea came about after taking an analog synthesizer building class using similar types of cables.
+24 It sounded awful. It was like, I need to build something kind of like this. That sounds better. I went home, coded, started soldering and building this. And then after four months, I had the instrument.
+25 Since then, Riley says she has performed before mostly academic audiences, as well as posting videos of herself performing with her invention to her social media accounts.
+26 I think it's best live because once it is live, you can actually feel the interaction. You can feel the connection. I like to let the music speak for itself.
+27 Right now, the instrument is limited to the original box and Riley's computer. She says commentators have asked her how to have one to buy, asking donations to help her ongoing artistic project.
+28 I'd love to find a way to make more light instruments because people really want to buy it. People really want to have one of their own. So I'd have to figure out how to make it look nice and how to make it not on a computer. So that's probably like a couple years, maybe some more science and thinking.
+29 Now to Chile, where some of Mother Nature's most dapper dressers are trading their tuxes for something high tech.
+30 My besties, researchers have developed special suits to help injured penguins recover from surgery. Penguins often arrive at rehabilitation centers after getting tangled in fishing nets, suffering wounds that can require stitches. But here's the problem.
+31 Penguins are incredibly flexible, and they can reach around and pick at those stitches. So with prudence, researchers at Chile's Humboldt Conservation Center helped develop a special fabric infused with microscopic particles of copper and zinc, which aid recovery times by preventing bacterial growth and promoting the formation of new blood vessels.
+32 This is a differentiator of this technology versus others, which allows tissues to recover faster.
+33 We're working under the hypothesis that this technology could also help penguin recovery. We have tested it in dogs, cats, mammals, but in penguins for the first time.
+34 And there's a uniquely Chilean twist here. Chile is home to roughly 80 percent of the world's remaining Humboldt penguin population and is the world's largest producer of copper. So one of the country's most famous natural resources is now helping protect some of its most famous wildlife. That's some heavy metal healing right there. Rock on.
+35 Have you ever found yourself crying, like while you're chopping an onion?Imagine doing that in space where tears can float. NASA astronaut Anil Menon shared a look into what cooking might look like hundreds of miles above Earth.
+36 You might even call it one giant leap for a meal prep.
+37 Tell us what's going on here.
+38 We got some onions in a resupply vehicle. We get very excited when we have fruits and vegetables up here. So one of the things that we really like to do is roast these onions. We do it with garlic as well when we get it.
+39 We have some aluminum foil right here and it's very simple. We've got our olive oil. Place the cut onions into the tin foil.
+40 Blasted onion. I like to do a layer of this oil first to help them stick while you're cutting the rest. Get them down there and package it up and then we'll put it over here in our food warmer for probably like 12, 24 hours because it's not a real oven, just a food warmer. But over time that will make a nice roasted onion. They'll even get caramelized as we go for even longer.
+41 Today's story, getting a 10 out of 10.
+42 One Transportation Security Administration officer might be getting some extra wagging rights. After being crowned the agency's top dog, the agency announced Bolt, a three-year-old German short-haired pointer from Dallas-Fort Worth International Airport is the winner of their 2026 cutest canine contest. Although he's a federal officer, Bolt has no poker face.
+43 Look at those pearly whites. 85 dogs nominated. But Bolt fetched the most votes from the public and the hearts of many nationwide.
+44 But Bolt's job is far more than looking cute. He's part of a TSA Explosives Detection Team helping screen airports and sniff out potential threats. That's one dog serving the looks and protecting our airports against threats, one bark at a time.
+45 All right, it is almost time to go. But first, congrats to our Your Word Wednesday winner. Our friends at Heritage High School in White House, Tennessee, Coach Bradley, you all submitted prudence, the ability to use good judgment and self-discipline to avoid unnecessary risks.
+46 Thank you for making us smarter today. And speaking of Your Word Wednesday, I got a shout out here to Miss Frasick and all of my friends at Flood Middle School in Stratford, Connecticut. They sent me this fresh stack.
+47 It says Your Word Wednesday. Thank you so much for this. And next up, shout out goes to Miss Amy at Marshall Middle School in the Plains, Virginia.
+48 Thank you for all the kind letters. We are looking forward to spending another season with you. Remember, curiosity helps us understand the world.
+49 Kindness helps us change it. So go ask a question, make somebody smile and shine on sunshine. I'm Coy Wire and we are CNN 10.

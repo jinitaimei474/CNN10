@@ -1,0 +1,11 @@
+{
+  "new_pdfs": 20,
+  "total_new_pages": 160,
+  "paragraph_pairs": 987,
+  "vocabulary_notes": 531,
+  "text_integrity": "PASS",
+  "page_bounds": "PASS",
+  "all_pages_rendered_and_visually_reviewed": true,
+  "archive_pdfs": 21,
+  "archive_pages": 170
+}
